@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>category</key>
+			<string>itms</string>
+			<key>downloadID</key>
+			<string>480004913474369</string>
+			<key>dsid</key>
+			<integer>354750683</integer>
+			<key>id</key>
+			<integer>562413829</integer>
+			<key>name</key>
+			<string>Udemy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
